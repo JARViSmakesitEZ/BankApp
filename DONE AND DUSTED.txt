@@ -1,0 +1,12 @@
+:: user authentication
+:: storing user signup details in db
+:: displaying user db details when logged in
+:: switch between pages
+:: 
+
+
+
+to do:
+:: wrong credentials popup for invalid login
+:: invalid signup details popup
+:: 
